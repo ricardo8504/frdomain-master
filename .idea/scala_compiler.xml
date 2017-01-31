@@ -8,8 +8,8 @@
       <option name="uncheckedWarnings" value="true" />
       <option name="featureWarnings" value="true" />
       <plugins>
-        <plugin path="$USER_HOME$/.ivy2/cache/com.milessabin/si2712fix-plugin_2.11.8/jars/si2712fix-plugin_2.11.8-1.2.0.jar" />
-        <plugin path="$USER_HOME$/.ivy2/cache/org.spire-math/kind-projector_2.11/jars/kind-projector_2.11-0.8.0.jar" />
+        <plugin path="C:\Users\ricaoslo\.ivy2\cache\com.milessabin\si2712fix-plugin_2.11.8\jars\si2712fix-plugin_2.11.8-1.2.0.jar" />
+        <plugin path="C:\Users\ricaoslo\.ivy2\cache\org.spire-math\kind-projector_2.11\jars\kind-projector_2.11-0.8.0.jar" />
       </plugins>
     </profile>
   </component>
